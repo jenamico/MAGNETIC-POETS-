@@ -101,11 +101,6 @@ def make_random_lists(signature_list, connecting_list):
     return random_signature_list
     return random_connecting_list
 
-print "random_signature_list:", random_signature_list
-print "random_connecting_list:", random_connecting_list
-
-
-
 
 # def print_signature_words(signature_words):
 #     print signature_list

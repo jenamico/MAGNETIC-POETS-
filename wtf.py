@@ -17,7 +17,6 @@ connecting_list = []
 
 # If you want to iterate over key, value, use .items()
 for key, value in word_counts.items():
-    print key
     if key < 10:
         signature_list.extend(value)
     else:
