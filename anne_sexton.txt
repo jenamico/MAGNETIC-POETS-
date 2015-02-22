@@ -1,4 +1,34 @@
-ADMONITIONS TO A SPECIAL PURPOSE
+'''
+
+Anne Sexton -
+
+Born November 9, 1928 - death by suicide at age 46.
+Known as the modern model of the confessional poet, Anne Sexton trained under
+Robert Lowell with such contemporaries as Sylvia Plath and Ted Hughes.
+
+Sexton's signature style was highly personal and confessional verse that detailed
+her own struggles with mental illness, marriage, sex and
+addiction. Her work conveyed an intimacy considered scandalous
+for the time and subjected her to a great deal of scrutiny and criticism. She
+wrote of struggle and torment in an effort to keep herself alive and in the
+world.
+
+Anne Sexton began writing as an adult on the advice of a therapist and a
+priest -  within 10 years she had already won the Pulitzer and established
+herself as both a cautionary tale of self-destruction and artistic creation.
+
+'''
+
+
+
+
+
+
+
+
+
+
+ADMONITIONS FOR A SPECIAL PURPOSE
 
 Watch out for power,
 for its avalanche can bury you,
@@ -27,8 +57,8 @@ and you will stand like a naked little boy,
 pissing on your own child-bed.
 
 Watch out for love
-(unless it is true,
-and every part of you says yes including the toes) ,
+unless it is true,
+and every part of you says yes including the toes,
 it will wrap you up like a mummy,
 and your scream won't be heard
 and none of your running will end.
@@ -65,87 +95,86 @@ like a happened balloon.
 
 HER KIND
 
-I have gone out, a possessed witch,   
-haunting the black air, braver at night;   
-dreaming evil, I have done my hitch   
-over the plain houses, light by light:   
-lonely thing, twelve-fingered, out of mind.   
-A woman like that is not a woman, quite.   
+I have gone out, a possessed witch,
+haunting the black air, braver at night;
+dreaming evil, I have done my hitch
+over the plain houses, light by light:
+lonely thing, twelve-fingered, out of mind.
+A woman like that is not a woman, quite.
 I have been her kind.
 
-I have found the warm caves in the woods,   
-filled them with skillets, carvings, shelves,   
+I have found the warm caves in the woods,
+filled them with skillets, carvings, shelves,
 closets, silks, innumerable goods;
-fixed the suppers for the worms and the elves:   
+fixed the suppers for the worms and the elves:
 whining, rearranging the disaligned.
 A woman like that is misunderstood.
 I have been her kind.
 
 I have ridden in your cart, driver,
-waved my nude arms at villages going by,   
-learning the last bright routes, survivor   
+waved my nude arms at villages going by,
+learning the last bright routes, survivor
 where your flames still bite my thigh
-and my ribs crack where your wheels wind.   
-A woman like that is not ashamed to die.   
+and my ribs crack where your wheels wind.
+A woman like that is not ashamed to die.
 I have been her kind.
 
 ALL MY PRETTY ONES
 
-Father, this year’s jinx rides us apart
+Father, this year's jinx rides us apart
 where you followed our mother to her cold slumber;
-a second shock boiling its stone to your heart,   
-leaving me here to shuffle and disencumber   
-you from the residence you could not afford:   
+a second shock boiling its stone to your heart,
+leaving me here to shuffle and disencumber
+you from the residence you could not afford:
 a gold key, your half of a woolen mill,
-twenty suits from Dunne’s, an English Ford,   
-the love and legal verbiage of another will,   
+twenty suits from Dunne's, an English Ford,
+the love and legal verbiage of another will,
 boxes of pictures of people I do not know.
 I touch their cardboard faces. They must go.
 
-But the eyes, as thick as wood in this album,   
+But the eyes, as thick as wood in this album,
 hold me. I stop here, where a small boy
-waits in a ruffled dress for someone to come ...   
-for this soldier who holds his bugle like a toy   
-or for this velvet lady who cannot smile.   
-Is this your father’s father, this commodore
-in a mailman suit? My father, time meanwhile   
-has made it unimportant who you are looking for.   
-I’ll never know what these faces are all about.   
+waits in a ruffled dress for someone to come
+for this soldier who holds his bugle like a toy
+or for this velvet lady who cannot smile.
+Is this your father's father, this commodore
+in a mailman suit? My father, time meanwhile
+has made it unimportant who you are looking for.
+I'll never know what these faces are all about.
 I lock them into their book and throw them out.
 
 This is the yellow scrapbook that you began
-the year I was born; as crackling now and wrinkly   
-as tobacco leaves: clippings where Hoover outran   
+the year I was born; as crackling now and wrinkly
+as tobacco leaves: clippings where Hoover outran
 the Democrats, wiggling his dry finger at me
-and Prohibition; news where the Hindenburg went   
-down and recent years where you went flush   
-on war. This year, solvent but sick, you meant   
-to marry that pretty widow in a one-month rush.   
-But before you had that second chance, I cried   
+and Prohibition; news where the Hindenburg went
+down and recent years where you went flush
+on war. This year, solvent but sick, you meant 
+to marry that pretty widow in a one-month rush.
+But before you had that second chance, I cried.
 on your fat shoulder. Three days later you died.
 
-These are the snapshots of marriage, stopped in places.   
-Side by side at the rail toward Nassau now;
-here, with the winner’s cup at the speedboat races,   
+These are the snapshots of marriage, stopped in places.
+Side by side at the rail toward Nassau now
+here, with the winner's cup at the speedboat races,
 here, in tails at the Cotillion, you take a bow,
-here, by our kennel of dogs with their pink eyes,   
-running like show-bred pigs in their chain-link pen;   
-here, at the horseshow where my sister wins a prize;   
-and here, standing like a duke among groups of men.   
-Now I fold you down, my drunkard, my navigator,   
+here, by our kennel of dogs with their pink eyes,
+running like show-bred pigs in their chain-link pen;
+here, at the horseshow where my sister wins a prize;
+and here, standing like a duke among groups of men.
+Now I fold you down, my drunkard, my navigator,
 my first lost keeper, to love or look at later.
 
-I hold a five-year diary that my mother kept   
-for three years, telling all she does not say   
+I hold a five-year diary that my mother kept
+for three years, telling all she does not say
 of your alcoholic tendency. You overslept,
-she writes. My God, father, each Christmas Day   
-with your blood, will I drink down your glass   
-of wine? The diary of your hurly-burly years   
-goes to my shelf to wait for my age to pass.   
-Only in this hoarded span will love persevere.   
+she writes. My God, father, each Christmas Day
+with your blood, will I drink down your glass
+of wine? The diary of your hurly-burly years
+goes to my shelf to wait for my age to pass.
+Only in this hoarded span will love persevere.
 Whether you are pretty or not, I outlive you,
 bend down my strange face to yours and forgive you.
-
 
 AGAIN AND AGAIN
 
@@ -202,13 +231,13 @@ I did not think of my body at needle point.
 Even the cornea and the leftover urine were gone.
 Suicides have already betrayed the body.
 
-Still-born, they don’t always die,
-but dazzled, they can’t forget a drug so sweet
+Still-born, they don't always die,
+but dazzled, they can't forget a drug so sweet
 that even children would look on and smile.
 
-To thrust all that life under your tongue!—
+To thrust all that life under your tongue!
 that, all by itself, becomes a passion.
-Death’s a sad bone; bruised, you’d say,
+Death's a sad bone; bruised, you'd say,
 
 and yet she waits for me, year after year,
 to so delicately undo an old wound,
@@ -221,6 +250,307 @@ leaving the bread they mistook for a kiss,
 leaving the page of the book carelessly open,
 something unsaid, the phone off the hook
 and the love whatever it was, an infection.
+
+AS IT WAS WRITTEN
+
+Earth, earth,
+riding your merry-go-round
+toward extinction,
+right to the roots,
+thickening the oceans like gravy,
+festering in your caves,
+you are becoming a latrine.
+Your trees are twisted chairs.
+Your flowers moan at their mirrors,
+and cry for a sun that doesn't wear a mask.
+
+Your clouds wear white,
+trying to become nuns
+and say novenas to the sky.
+The sky is yellow with its jaundice,
+and its veins spill into the rivers
+where the fish kneel down
+to swallow hair and goat's eyes.
+
+All in all, I'd say,
+the world is strangling.
+And I, in my bed each night,
+listen to my twenty shoes
+converse about it.
+And the moon,
+under its dark hood,
+falls out of the sky each night,
+with its hungry red mouth
+to suck at my scars.
+
+CIGARETTES AND WHISKEY AND WILD WILD WOMEN
+
+Perhaps I was born kneeling,
+born coughing on the long winter,
+born expecting the kiss of mercy,
+born with a passion for quickness
+and yet, as things progressed,
+I learned early about the stockade
+or taken out, the fume of the enema.
+By two or three I learned not to kneel,
+not to expect, to plant my fires underground
+where none but the dolls, perfect and awful,
+could be whispered to or laid down to die.
+
+Now that I have written many words,
+and let out so many loves, for so many,
+and been altogether what I always was
+a woman of excess, of zeal and greed,
+I find the effort useless.
+Do I not look in the mirror,
+these days,
+and see a drunken rat avert her eyes?
+Do I not feel the hunger so acutely
+that I would rather die than look
+into its face?
+I kneel once more,
+in case mercy should come
+in the nick of time.
+
+THE KISS
+
+My mouth blooms like a cut.
+I've been wronged all year, tedious
+nights, nothing but rough elbows in them
+and delicate boxes of Kleenex calling crybaby
+crybaby, you fool!
+
+Before today my body was useless.
+Now it's tearing at its square corners.
+It's tearing old Mary's garments off, knot by knot
+and see - Now it's shot full of these electric bolts.
+Zing! A resurrection!
+
+Once it was a boat, quite wooden
+and with no business, no salt water under it
+and in need of some paint. It was no more
+than a group of boards. But you hoisted her, rigged her.
+She's been elected.
+
+My nerves are turned on. I hear them like
+musical instruments. Where there was silence
+the drums, the strings are incurably playing. You did this.
+Pure genius at work. Darling, the composer has stepped
+into fire.
+
+FOR JOHN, WHO BEGS ME NOT TO ENQUIRE FURTHER
+
+Not that it was beautiful,
+but that, in the end, there was
+a certain sense of order there;
+something worth learning
+in that narrow diary of my mind,
+in the commonplaces of the asylum
+where the cracked mirror
+or my own selfish death
+outstared me.
+And if I tried
+to give you something else,
+something outside of myself,
+you would not know
+that the worst of anyone
+can be, finally,
+an accident of hope.
+I tapped my own head;
+it was a glass, an inverted bowl.
+It is a small thing
+to rage in your own bowl.
+At first it was private.
+Then it was more than myself;
+it was you, or your house
+or your kitchen.
+And if you turn away
+because there is no lesson here
+I will hold my awkward bowl,
+with all its cracked stars shining
+like a complicated lie,
+and fasten a new skin around it
+as if I were dressing an orange
+or a strange sun.
+Not that it was beautiful,
+but that I found some order there.
+There ought to be something special
+for someone
+in this kind of hope.
+This is something I would never find
+in a lovelier place, my dear,
+although your fear is anyone's fear,
+like an invisible veil between us all.
+and sometimes in private,
+my kitchen, your kitchen,
+my face, your face.
+
+THE BLACK ART
+
+A woman who writes feels too much,
+those trances and portents!
+As if cycles and children and islands
+weren't enough; as if mourners and gossips
+and vegetables were never enough.
+She thinks she can warn the stars.
+A writer is essentially a spy.
+Dear love, I am that girl.
+
+A man who writes knows too much,
+such spells and fetiches!
+As if erections and congresses and products
+weren't enough; as if machines and galleons
+and wars were never enough.
+With used furniture he makes a tree.
+A writer is essentially a crook.
+Dear love, you are that man.
+
+Never loving ourselves,
+hating even our shoes and our hats,
+we love each other, precious, precious.
+Our hands are light blue and gentle.
+Our eyes are full of terrible confessions.
+But when we marry,
+the children leave in disgust.
+There is too much food and no one left over
+to eat up all the weird abundance.
+
+THE BALLAD OF THE LONELY MASTURBATOR
+
+poet Anne Sexton #24 on top 500 poets Poet's PagePoemsCommentsStatsE-BooksBiographyShare on FacebookShare on Twitter
+Poems by Anne Sexton : 105 / 187 « prev. poem next poem »
+The Ballad Of The Lonely Masturbator
+
+
+The end of the affair is always death.
+She's my workshop. Slippery eye,
+out of the tribe of myself my breath
+finds you gone. I horrify
+those who stand by. I am fed.
+At night, alone, I marry the bed.
+Finger to finger, now she's mine.
+She's not too far. She's my encounter.
+I beat her like a bell. I recline
+in the bower where you used to mount her.
+You borrowed me on the flowered spread.
+At night, alone, I marry the bed.
+Take for instance this night, my love,
+that every single couple puts together
+with a joint overturning, beneath, above,
+the abundant two on sponge and feather,
+kneeling and pushing, head to head.
+At night, alone, I marry the bed.
+I break out of my body this way,
+an annoying miracle. Could I
+put the dream market on display?
+I am spread out. I crucify.
+My little plum is what you said.
+At night, alone, I marry the bed.
+Then my black-eyed rival came.
+The lady of water, rising on the beach,
+a piano at her fingertips, shame
+on her lips and a flute's speech.
+And I was the knock-kneed broom instead.
+At night, alone, I marry the bed.
+She took you the way a women takes
+a bargain dress off the rack
+and I broke the way a stone breaks.
+I give back your books and fishing tack.
+Today's paper says that you are wed.
+At night, alone, I marry the bed.
+The boys and girls are one tonight.
+They unbutton blouses. They unzip flies.
+They take off shoes. They turn off the light.
+The glimmering creatures are full of lies.
+They are eating each other. They are overfed.
+At night, alone, I marry the bed.
+
+SAID THE POET TO THE ANALYST
+
+My business is words. Words are like labels,
+or coins, or better, like swarming bees.
+I confess I am only broken by the sources of things;
+as if words were counted like dead bees in the attic,
+unbuckled from their yellow eyes and their dry wings.
+I must always forget how one word is able to pick
+out another, to manner another, until I have got
+something I might have said…
+but did not.
+Your business is watching my words. But I
+admit nothing. I work with my best, for instance,
+when I can write my praise for a nickel machine,
+that one night in Nevada: telling how the magic jackpot
+came clacking three bells out, over the lucky screen.
+But if you should say this is something it is not,
+then I grow weak, remembering how my hands felt funny
+and ridiculous and crowded with all
+the believing money.
+
+THE INVENTORY OF GOODBYE
+
+I have a pack of letters,
+I have a pack of memories.
+I could cut out the eyes of both.
+I could wear them like a patchwork apron.
+I could stick them in the washer, the drier,
+and maybe some of the pain would float off like dirt?
+Perhaps down the disposal I could grind up the loss.
+Besides - what a bargain - no expensive phone calls.
+No lengthy trips on planes in the fog.
+No manicky laughter or blessing from an odd-lot priest.
+That priest is probably still floating on a fog pillow.
+Blessing us. Blessing us.
+
+Am I to bless the lost you,
+sitting here with my clumsy soul?
+Propaganda time is over.
+I sit here on the spike of truth.
+No one to hate except the slim fish of memory
+that slides in and out of my brain.
+No one to hate except the acute feel of my nightgown
+brushing my body like a light that has gone out.
+It recalls the kiss we invented, tongues like poems,
+meeting, returning, inviting, causing a fever of need.
+Laughter, maps, cassettes, touch singing its path -
+all to be broken and laid away in a tight strongbox.
+The monotonous dead clog me up and there is only
+black done in black that oozes from the strongbox.
+I must disembowel it and then set the heart, the legs,
+of two who were one upon a large woodpile
+and ignite, as I was once ignited, and let it whirl
+into flame, reaching the sky
+making it dangerous with its red.
+
+SMALL WIRE
+
+My faith
+is a great weight
+hung on a small wire,
+as doth the spider
+hang her baby on a thin web,
+as doth the vine,
+twiggy and wooden,
+hold up grapes
+like eyeballs,
+as many angels
+dance on the head of a pin.
+
+God does not need
+too much wire to keep Him there,
+just a thin vein,
+with blood pushing back and forth in it,
+and some love.
+As it has been said:
+Love and a cough
+cannot be concealed.
+Even a small cough.
+Even a small love.
+So if you have only a thin wire,
+God does not mind.
+He will enter your hands
+as easily as ten cents used to
+bring forth a Coke.
+
 
 
 
