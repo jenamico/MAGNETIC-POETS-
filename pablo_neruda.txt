@@ -1,0 +1,613 @@
+'''
+
+Pablo Neruda -
+
+Pablo Neruda was the pen name for Neftali Ricardo Reyes Basoalso, born
+July 12, 1904 in Chile. Pablo began writing as a teenager and often in
+green ink, his personal symbol for desire and hope. Although his work
+covered a variety of topics, he is most famous for his collection
+"Twenty Love Poems and a Song of Despair" which established Neruda as a
+"frank, sensuous spokesman for love." He equated women with nature raised to
+the cosmic degree, and contextualized the women in his life into veritable
+forces of the universe. His style was rich and varied.
+
+Fiercely devoted to communism, he occupied a number of diplomatic positions and
+won the Nobel Prize for Literature in 1971.
+
+This data set contains 16 poems and 3211 individual words.
+
+'''
+
+XVII (I DO NOT LOVE YOU)
+
+I do not love you as if you were salt-rose, or topaz,
+or the arrow of carnations the fire shoots off.
+I love you as certain dark things are to be loved,
+in secret, between the shadow and the soul.
+
+I love you as the plant that never blooms
+but carries in itself the light of hidden flowers;
+thanks to your love a certain solid fragrance,
+risen from the earth, lives darkly in my body.
+
+I love you without knowing how, or when, or from where.
+I love you straightforwardly, without complexities or pride;
+so I love you because I know no other way
+
+than this: where I does not exist, nor you,
+so close that your hand on my chest is my hand,
+so close that your eyes close as I fall asleep.
+
+
+I DO NOT LOVE YOU EXCEPT BECAUSE I LOVE YOU
+
+I do not love you except because I love you;
+I go from loving to not loving you,
+From waiting to not waiting for you
+My heart moves from cold to fire.
+
+I love you only because it's you the one I love;
+I hate you deeply, and hating you
+Bend to you, and the measure of my changing love for you
+Is that I do not see you but love you blindly.
+
+Maybe January light will consume
+My heart with its cruel
+Ray, stealing my key to true calm.
+
+In this part of the story I am the one who
+Dies, the only one, and I will die of love because I love you,
+Because I love you, Love, in fire and blood.
+
+
+TONIGHT I CAN WRITE THE SADDEST LINES
+
+
+Write, for example,'The night is shattered
+and the blue stars shiver in the distance.'
+The night wind revolves in the sky and sings.
+
+Tonight I can write the saddest lines.
+I loved her, and sometimes she loved me too.
+
+Through nights like this one I held her in my arms
+I kissed her again and again under the endless sky.
+
+She loved me sometimes, and I loved her too.
+How could one not have loved her great still eyes.
+
+Tonight I can write the saddest lines.
+To think that I do not have her. To feel that I have lost her.
+
+To hear the immense night, still more immense without her.
+And the verse falls to the soul like dew to the pasture.
+
+What does it matter that my love could not keep her.
+The night is shattered and she is not with me.
+
+This is all. In the distance someone is singing. In the distance.
+My soul is not satisfied that it has lost her.
+
+My sight searches for her as though to go to her.
+My heart looks for her, and she is not with me.
+
+The same night whitening the same trees.
+We, of that time, are no longer the same.
+
+I no longer love her, that's certain, but how I loved her.
+My voice tried to find the wind to touch her hearing.
+
+Another's. She will be another's. Like my kisses before.
+Her voide. Her bright body. Her inifinite eyes.
+
+I no longer love her, that's certain, but maybe I love her.
+Love is so short, forgetting is so long.
+
+Because through nights like this one I held her in my arms
+my sould is not satisfied that it has lost her.
+
+Though this be the last pain that she makes me suffer
+and these the last verses that I write for her.
+
+IF YOU FORGET ME
+
+I want you to know
+one thing.
+
+You know how this is:
+if I look
+at the crystal moon, at the red branch
+of the slow autumn at my window,
+if I touch
+near the fire
+the impalpable ash
+or the wrinkled body of the log,
+everything carries me to you,
+as if everything that exists,
+aromas, light, metals,
+were little boats
+that sail
+toward those isles of yours that wait for me.
+
+Well, now,
+if little by little you stop loving me
+I shall stop loving you little by little.
+
+If suddenly
+you forget me
+do not look for me,
+for I shall already have forgotten you.
+
+If you think it long and mad,
+the wind of banners
+that passes through my life,
+and you decide
+to leave me at the shore
+of the heart where I have roots,
+remember
+that on that day,
+at that hour,
+I shall lift my arms
+and my roots will set off
+to seek another land.
+
+But
+if each day,
+each hour,
+you feel that you are destined for me
+with implacable sweetness,
+if each day a flower
+climbs up to your lips to seek me,
+ah my love, ah my own,
+in me all that fire is repeated,
+in me nothing is extinguished or forgotten,
+my love feeds on your love, beloved,
+and as long as you live it will be in your arms
+without leaving mine.
+
+
+I REMEMBER YOU AS YOU WERE
+
+I remember you as you were in the last autumn.
+You were the grey beret and the still heart.
+In your eyes the flames of the twilight fought on.
+And the leaves fell in the water of your soul.
+
+Clasping my arms like a climbing plant
+the leaves garnered your voice, that was slow and at peace.
+Bonfire of awe in which my thirst was burning.
+Sweet blue hyacinth twisted over my soul.
+
+I feel your eyes traveling, and the autumn is far off:
+Grey beret, voice of a bird, heart like a house
+Towards which my deep longings migrated
+And my kisses fell, happy as embers.
+
+Sky from a ship. Field from the hills:
+Your memory is made of light, of smoke, of a still pond!
+Beyond your eyes, farther on, the evenings were blazing.
+Dry autumn leaves revolved in your soul.
+
+
+I CRAVE YOUR MOUTH, YOUR VOICE, YOUR HAIR
+
+
+I crave your mouth, your voice, your hair.
+Silent and starving, I prowl through the streets.
+Bread does not nourish me, dawn disrupts me, all day
+I hunt for the liquid measure of your steps.
+
+I hunger for your sleek laugh,
+your hands the color of a savage harvest,
+hunger for the pale stones of your fingernails,
+I want to eat your skin like a whole almond.
+
+I want to eat the sunbeam flaring in your lovely body,
+the sovereign nose of your arrogant face,
+I want to eat the fleeting shade of your lashes,
+
+and I pace around hungry, sniffing the twilight,
+hunting for you, for your hot heart,
+like a puma in the barrens of Quitratue.
+
+IN MY SKY AT TWILIGHT
+
+In my sky at twilight you are like a cloud
+and your form and colour are the way I love them.
+You are mine, mine, woman with sweet lips
+and in your life my infinite dreams live.
+
+The lamp of my soul dyes your feet,
+the sour wine is sweeter on your lips,
+oh reaper of my evening song,
+how solitary dreams believe you to be mine!
+
+You are mine, mine, I go shouting it to the afternoon's
+wind, and the wind hauls on my widowed voice.
+Huntress of the depth of my eyes, your plunder
+stills your nocturnal regard as though it were water.
+
+You are taken in the net of my music, my love,
+and my nets of music are wide as the sky.
+My soul is born on the shore of your eyes of mourning.
+In your eyes of mourning the land of dreams begin.
+
+LEANING INTO THE AFTERNOONS
+
+Leaning into the afternoons I cast my sad nets
+towards your oceanic eyes.
+
+There in the highest blaze my solitude lengthens and flames,
+its arms turning like a drowning man's.
+
+I send out red signals across your absent eyes
+that smell like the sea or the beach by a lighthouse.
+
+You keep only darkness, my distant female,
+from your regard sometimes the coast of dread emerges.
+
+Leaning into the afternoons I fling my sad nets
+to that sea that is thrashed by your oceanic eyes.
+
+The birds of night peck at the first stars
+that flash like my soul when I love you.
+
+The night gallops on its shadowy mare
+shedding blue tassels over the land.
+
+
+SONNET XXV
+
+Before I loved you, love, nothing was my own:
+I wavered through the streets, among
+Objects:
+Nothing mattered or had a name:
+The world was made of air, which waited.
+
+I knew rooms full of ashes,
+Tunnels where the moon lived,
+Rough warehouses that growled 'get lost',
+Questions that insisted in the sand.
+
+Everything was empty, dead, mute,
+Fallen abandoned, and decayed:
+Inconceivably alien, it all
+
+Belonged to someone else - to no one:
+Till your beauty and your poverty
+Filled the autumn plentiful with gifts.
+
+ODE TO SADNESS
+
+Sadness, scarab
+with seven crippled feet,
+spiderweb egg,
+scramble-brained rat,
+bitch's skeleton:
+No entry here.
+Don't come in.
+Go away.
+Go back
+south with your umbrella,
+go back
+north with your serpent's teeth.
+A poet lives here.
+No sadness may
+cross this threshold.
+Through these windows
+comes the breath of the world,
+fresh red roses,
+flags embroidered with
+the victories of the people.
+No.
+No entry.
+Flap
+your bat's wings,
+I will trample the feathers
+that fall from your mantle,
+I will sweep the bits and pieces
+of your carcass to
+the four corners of the wind,
+I will wring your neck,
+I will stitch your eyelids shut,
+I will sew your shroud,
+sadness, and bury your rodent bones
+beneath the springtime of an apple tree.
+
+LOVE, WE'RE GOING HOME NOW
+
+Love, we're going home now,
+Where the vines clamber over the trellis:
+Even before you, the summer will arrive,
+On its honeysuckle feet, in your bedroom.
+
+Our nomadic kisses wandered over all the world:
+Armenia, dollop of disinterred honey:
+Ceylon, green dove: and the YangTse with its old
+Old patience, dividing the day from the night.
+
+And now, dearest, we return, across the crackling sea
+Like two blind birds to their wall,
+To their nest in a distant spring:
+
+Because love cannot always fly without resting,
+Our lives return to the wall, to the rocks of the sea:
+Our kisses head back home where they belong.
+
+TIE YOUR HEART AT NIGHT TO MINE, LOVE
+
+Tie your heart at night to mine, love,
+and both will defeat the darkness
+like twin drums beating in the forest
+against the heavy wall of wet leaves.
+
+Night crossing: black coal of dream
+that cuts the thread of earthly orbs
+with the punctuality of a headlong train
+that pulls cold stone and shadow endlessly.
+
+Love, because of it, tie me to a purer movement,
+to the grip on life that beats in your breast,
+with the wings of a submerged swan,
+
+So that our dream might reply
+to the sky's questioning stars
+with one key, one door closed to shadow.
+
+SONG OF DESPAIR
+
+The memory of you emerges from the night around me.
+The river mingles its stubborn lament with the sea.
+
+Deserted like the wharves at dawn.
+It is the hour of departure, oh deserted one!
+
+Cold flower heads are raining over my heart.
+Oh pit of debris, fierce cave of the shipwrecked.
+
+In you the wars and the flights accumulated.
+From you the wings of the song birds rose.
+
+You swallowed everything, like distance.
+Like the sea, like time. In you everything sank!
+
+It was the happy hour of assault and the kiss.
+The hour of the spell that blazed like a lighthouse.
+
+Pilot's dread, fury of blind driver,
+turbulent drunkenness of love, in you everything sank!
+
+In the childhood of mist my soul, winged and wounded.
+Lost discoverer, in you everything sank!
+
+You girdled sorrow, you clung to desire,
+sadness stunned you, in you everything sank!
+
+I made the wall of shadow draw back,
+beyond desire and act, I walked on.
+
+Oh flesh, my own flesh, woman whom I loved and lost,
+I summon you in the moist hour, I raise my song to you.
+
+Like a jar you housed infinite tenderness.
+and the infinite oblivion shattered you like a jar.
+
+There was the black solitude of the islands,
+and there, woman of love, your arms took me in.
+
+There was thirst and hunger, and you were the fruit.
+There were grief and ruins, and you were the miracle.
+
+Ah woman, I do not know how you could contain me
+in the earth of your soul, in the cross of your arms!
+
+How terrible and brief my desire was to you!
+How difficult and drunken, how tensed and avid.
+
+Cemetery of kisses, there is still fire in your tombs,
+still the fruited boughs burn, pecked at by birds.
+
+Oh the bitten mouth, oh the kissed limbs,
+oh the hungering teeth, oh the entwined bodies.
+
+Oh the mad coupling of hope and force
+in which we merged and despaired.
+
+And the tenderness, light as water and as flour.
+And the word scarcely begun on the lips.
+
+This was my destiny and in it was my voyage of my longing,
+and in it my longing fell, in you everything sank!
+
+Oh pit of debris, everything fell into you,
+what sorrow did you not express, in what sorrow are you not drowned!
+
+From billow to billow you still called and sang.
+Standing like a sailor in the prow of a vessel.
+
+You still flowered in songs, you still brike the currents.
+Oh pit of debris, open and bitter well.
+
+Pale blind diver, luckless slinger,
+lost discoverer, in you everything sank!
+
+It is the hour of departure, the hard cold hour
+which the night fastens to all the timetables.
+
+The rustling belt of the sea girdles the shore.
+Cold stars heave up, black birds migrate.
+
+Deserted like the wharves at dawn.
+Only tremulous shadow twists in my hands.
+
+Oh farther than everything. Oh farther than everything.
+
+It is the hour of departure. Oh abandoned one!
+
+THE LIGHT THAT RISES FROM YOUR FEET TO YOUR HAIR
+
+The light that rises from your feet to your hair,
+the strength enfolding your delicate form,
+are not mother of pearl, not chilly silver:
+you are made of bread, a bread the fire adores.
+
+The grain grew high in its harvest of you,
+in good time the flour swelled;
+as the dough rose, doubling your breasts,
+my love was the coal waiting ready in the earth.
+
+Oh, bread your forehead, your legs, your mouth,
+bread I devour, born with the morning light,
+my love, beacon-flag of the bakeries:
+
+fire taugh you a lesson of the blood;
+you learned your holiness from flour,
+from bread your language and aroma.
+
+SONATA
+
+Neither the heart cut by a piece of glass
+in a wasteland of thorns
+nor the atrocious waters seen in the corners
+of certain houses, waters like eyelids and eyes
+can capture your waist in my hands
+when my heart lifts its oaks
+towards your unbreakable thread of snow.
+
+Nocturnal sugar, spirit
+of the crowns,
+ransomed
+human blood, your kisses
+send into exile
+and a stroke of water, with remnants of the sea,
+neats on the silences that wait for you
+surrounding the worn chairs, wearing out doors.
+
+Nights with bright spindles,
+divided, material, nothing
+but voice, nothing but
+naked every day.
+
+Over your breasts of motionless current,
+over your legs of firmness and water,
+over the permanence and the pride
+of your naked hair
+I want to be, my love, now that the tears are
+thrown
+into the raucous baskets where they accumulate,
+I want to be, my love, alone with a syllable
+of mangled silver, alone with a tip
+of your breast of snow.
+
+PERHAPS NOT TO BE IS TO BE WITHOUT YOUR BEING
+
+
+Perhaps not to be is to be without your being,
+without your going, that cuts noon light
+like a blue flower, without your passing
+later through fog and stones,
+without the torch you lift in your hand
+that others may not see as golden,
+that perhaps no one believed blossomed
+the glowing origin of the rose,
+without, in the end, your being, your coming
+suddenly, inspiringly, to know my life,
+blaze of the rose-tree, wheat of the breeze:
+and it follows that I am, because you are:
+it follows from you are, that I am, and we
+and, because of love, you will, I will,
+We will, come to be.
+
+AND BECAUSE LOVE BATTLES
+
+And because love battles
+not only in its burning agricultures
+but also in the mouth of men and women,
+I will finish off by taking the path away
+to those who between my chest and your fragrance
+want to interpose their obscure plant.
+
+About me, nothing worse
+they will tell you, my love,
+than what I told you.
+
+I lived in the prairies
+before I got to know you
+and I did not wait love but I was
+laying in wait for and I jumped on the rose.
+
+What more can they tell you?
+I am neither good nor bad but a man,
+and they will then associate the danger
+of my life, which you know
+and which with your passion you shared.
+
+And good, this danger
+is danger of love, of complete love
+for all life,
+for all lives,
+and if this love brings us
+the death and the prisons,
+I am sure that your big eyes,
+as when I kiss them,
+will then close with pride,
+into double pride, love,
+with your pride and my pride.
+
+But to my ears they will come before
+to wear down the tour
+of the sweet and hard love which binds us,
+and they will say The one
+you love,
+is not a woman for you,
+Why do you love her? I think
+you could find one more beautiful,
+more serious, more deep,
+more other, you understand me, look how she's light,
+and what a head she has,
+and look at how she dresses,
+and etcetera and etcetera.
+
+And I in these lines say:
+Like this I want you, love,
+love, Like this I love you,
+as you dress
+and how your hair lifts up
+and how your mouth smiles,
+light as the water
+of the spring upon the pure stones,
+Like this I love you, beloved.
+
+To bread I do not ask to teach me
+but only not to lack during every day of life.
+I don't know anything about light, from where
+it comes nor where it goes,
+I only want the light to light up,
+I do not ask to the night
+explanations,
+I wait for it and it envelops me,
+And so you, bread and light
+And shadow are.
+
+You came to my life
+with what you were bringing,
+made
+of light and bread and shadow I expected you,
+and Like this I need you,
+Like this I love you,
+and to those who want to hear tomorrow
+that which I will not tell them, let them read it here,
+and let them back off today because it is early
+for these arguments.
+
+Tomorrow we will only give them
+a leaf of the tree of our love, a leaf
+which will fall on the earth
+like if it had been made by our lips
+like a kiss which falls
+from our invincible heights
+to show the fire and the tenderness
+of a true love.
+
+
+

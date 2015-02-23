@@ -43,36 +43,36 @@ def alphabetize(occurrence_dict):
 
 
 
-def make_two_lists(word_counts):
-    signature_list = []
-    connecting_list = []
+# def make_two_lists(word_counts):
+#     signature_list = []
+#     connecting_list = []
 
-    for key, value in word_counts.items():
-        if key < 10:
-            signature_list.extend(value)
-        else:
-            connecting_list.extend(value)
-
-
-    # print "I am the signature list", signature_list
-    # print "I am the connecting list", connecting_list
-
-    return signature_list, connecting_list
+#     for key, value in word_counts.items():
+#         if key < 10:
+#             signature_list.extend(value)
+#         else:
+#             connecting_list.extend(value)
 
 
-def random_lists(signature_list, connecting_list):
-    random_signature_list = []
-    random_connecting_list = []
+#     # print "I am the signature list", signature_list
+#     # print "I am the connecting list", connecting_list
+
+#     return signature_list, connecting_list
 
 
-    random_signature_list = sample(signature_list, 25)
-    random_connecting_list = sample(connecting_list, 5)
-
-    print random_signature_list
-    print random_connecting_list
+# def random_lists(signature_list, connecting_list):
+#     random_signature_list = []
+#     random_connecting_list = []
 
 
-    return random_signature_list, random_connecting_list
+#     random_signature_list = sample(signature_list, 25)
+#     random_connecting_list = sample(connecting_list, 5)
+
+#     print random_signature_list
+#     print random_connecting_list
+
+
+#     return random_signature_list, random_connecting_list
 
 
 def main():
@@ -81,8 +81,10 @@ def main():
     clean_words = clean_up(split_string)
     counted_words = wordcount(clean_words)
     alpha_words = alphabetize(counted_words)
-    list1, list2 = make_two_lists(alpha_words)
-    random_sig_list, random_connect_list = random_lists(list1, list2)
+    # list1, list2 = make_two_lists(alpha_words)
+    # random_sig_list, random_connect_list = random_lists(list1, list2)
+
+    print alpha_words
 
 
      # (make_two_lists(alphabetize(wordcount(clean_up(string_splitter(text))))))

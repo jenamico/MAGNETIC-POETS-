@@ -1,0 +1,707 @@
+'''
+
+Born February 1, 1902 - Langston Hughes was a notable leader of the
+Harlem Rennaisance and wrote throughout this era in a variety of
+formats. One of the earliest innovators of a literary art form known as
+"jazz poetry" Langston incorporated the syncopated rhythms and
+repetitve phrasing of blues and jazz into his work.
+
+Jazz poetry was conceived in the 1920's by African Americans and maintained
+during the 1950's by the Beat Generation. Jazz poetry has adapted into modern
+times as hip-hop/poetry slams.
+
+This data set contains 24 poems and 2457 individual words
+
+'''
+
+
+DREAMS
+
+Hold fast to dreams
+For if dreams die
+Life is a broken-winged bird
+That cannot fly.
+Hold fast to dreams
+For when dreams go
+Life is a barren field
+Frozen with snow.
+
+HARLEM. A DREAM DEFERRED
+
+What happens to a dream deferred?
+
+Does it dry up
+like a raisin in the sun?
+Or fester like a sore
+And then run?
+Does it stink like rotten meat?
+Or crust and sugar over
+like a syrupy sweet?
+
+Maybe it just sags
+like a heavy load.
+
+Or does it explode?
+
+AS I GREW OLDER
+
+It was a long time ago.
+I have almost forgotten my dream.
+But it was there then,
+In front of me,
+Bright like a sun
+My dream.
+And then the wall rose,
+Rose slowly,
+Slowly,
+Between me and my dream.
+Rose until it touched the sky
+The wall.
+Shadow.
+I am black.
+I lie down in the shadow.
+No longer the light of my dream before me,
+Above me.
+Only the thick wall.
+Only the shadow.
+My hands!
+My dark hands!
+Break through the wall!
+Find my dream!
+Help me to shatter this darkness,
+To smash this night,
+To break this shadow
+Into a thousand lights of sun,
+Into a thousand whirling dreams
+Of sun!
+
+
+MOTHER TO SON
+
+Well, son, I'll tell you
+Life for me ain't been no crystal stair.
+It's had tacks in it,
+And splinters,
+And boards torn up,
+And places with no carpet on the floor
+Bare.
+But all the time
+I'se been a-climbin' on,
+And reachin' landin's,
+And turnin' corners,
+And sometimes goin' in the dark
+Where there ain't been no light.
+So, boy, don't you turn back.
+Don't you set down on the steps.
+Cause you finds it's kinder hard.
+Don't you fall now
+For I'se still goin', honey,
+I'se still climbin',
+And life for me ain't been no crystal stair.
+
+50-50
+
+I'm all alone in this world, she said,
+Ain't got nobody to share my bed,
+Ain't got nobody to hold my hand
+The truth of the matter's
+I ain't got no man.
+
+Big Boy opened his mouth and said,
+Trouble with you is
+You ain't got no head!
+If you had a head and used your mind
+You could have me with you
+All the time.
+
+She answered, Babe, what must I do?
+
+He said, Share your bed
+And your money, too.
+
+SUICIDE'S NOTE
+
+The calm,
+Cool face of the river
+Asked me for a kiss.
+
+CHILDRENS RHYMES
+
+By what sends
+the white kids
+I ain't sent
+I know I can't
+be President.
+What don't bug
+them white kids
+sure bugs me:
+We know everybody
+ain't free.
+
+Lies written down
+for white folks
+ain't for us a-tall
+Liberty And Justice
+Huh! For All?
+
+DAYBREAK IN ALABAMA
+
+When I get to be a composer
+I'm gonna write me some music about
+Daybreak in Alabama
+And I'm gonna put the purtiest songs in it
+Rising out of the ground like a swamp mist
+And falling out of heaven like soft dew.
+I'm gonna put some tall tall trees in it
+And the scent of pine needles
+And the smell of red clay after rain
+And long red necks
+And poppy colored faces
+And big brown arms
+And the field daisy eyes
+Of black and white black white black people
+And I'm gonna put white hands
+And black hands and brown and yellow hands
+And red clay earth hands in it
+Touching everybody with kind fingers
+And touching each other natural as dew
+In that dawn of music when I
+Get to be a composer
+And write about daybreak
+In Alabama.
+
+CULTURAL EXCHANGE
+
+In the Quarter of the Negroes
+Where the doors are doors of paper
+Dust of dingy atoms
+Blows a scratchy sound.
+Amorphous jack-o'-Lanterns caper
+And the wind won't wait for midnight
+For fun to blow doors down.
+By the river and the railroad
+With fluid far-off goind
+Boundaries bind unbinding
+A whirl of whisteles blowing.
+No trains or steamboats going
+Yet Leontyne's unpacking.
+
+In the Quarter of the Negroes
+Where the doorknob lets in Lieder
+More than German ever bore,
+Her yesterday past grandpa
+Not of her own doing
+In a pot of collard greens
+Is gently stewing.
+
+Pushcarts fold and unfold
+In a supermarket sea.
+And we better find out, mama,
+Where is the colored laundromat
+Since we move dup to Mount Vernon.
+
+In the pot begind the paper doors
+on the old iron stove what's cooking?
+What's smelling, Leontyne?
+Lieder, lovely Lieder
+And a leaf of collard green.
+Lovely Lieder, Leontyne.
+
+You know, right at Christmas
+They asked me if my blackness,
+Would it rub off?
+I said, Ask your mama.
+
+Dreams and nightmares!
+Nightmares, dreams, oh!
+Dreaming that the Negroes
+Of the South have taken over
+Voted all the Dixiecrats
+Right out of power
+
+Comes the colored hour
+Martin Luther King is Governor of Georgia,
+Dr. Rufus Clement his Chief Adviser,
+A. Philip Randolph the High Grand Worthy.
+In white pillared mansions
+Sitting on their wide verandas,
+Wealthy Negroes have white servants,
+White sharecroppers work the black plantations,
+And colored children have white mammies
+Mammy Faubus
+Mammy Eastland
+Mammy Wallace
+Dear, dear darling old white mammies
+Sometimes even buried with our family.
+Dear old
+Mammy Faubus!
+
+Culture, they say, is a two-way street
+Hand me my mint julep, mammny.
+Hurry up!
+Make haste!
+
+ADVERTISEMENT FOR THE WALDORF ASTORIA
+
+Fine living a la carte?
+Come to the Waldorf-Astoria!
+
+Listen Hungry Ones!
+Look! See what Vanity Fair says about the
+new Waldorf-Astoria
+
+All the luxuries of private home
+Now, won't that be charming when the last flop-house
+has turned you down this winter?
+
+
+Roomers
+Take a room at the new Waldorf, you down-and-outers
+sleepers in charity's flop-houses where God pulls a
+long face, and you have to pray to get a bed.
+They serve swell board at the Waldorf-Astoria. Look at the menu, will
+you
+
+Gumbo Creole
+Crabmeat in Cassolette
+Boiled Brisket Of Beef
+Small Onions In Cream
+Watercress Salad
+Peach Melba
+
+Have luncheon there this afternoon, all you jobless.
+Why not?
+Dine with some of the men and women who got rich off of
+your labor, who clip coupons with clean white fingers
+because your hands dug coal, drilled stone, sewed garments,
+poured steel to let other people draw dividends
+and live easy.
+Or haven't you had enough yet of the soup-lines and the bit-
+ter bread of charity?
+Walk through Peacock Alley tonight before dinner, and get
+warm, anyway. You've got nothing else to do.
+
+THE BLUES
+
+When the shoe strings break
+On both your shoes
+And you're in a hurry-
+That's the blues.
+
+When you go to buy a candy bar
+And you've lost the dime you had-
+Slipped through a hole in your pocket somewhere-
+That's the blues, too, and bad!
+
+GODS
+
+The ivory gods,
+And the ebony gods,
+And the gods of diamond and jade,
+Sit silently on their temple shelves
+While the people
+Are afraid.
+Yet the ivory gods,
+And the ebony gods,
+And the gods of diamond-jade,
+Are only silly puppet gods
+That the people themselves
+Have made.
+
+JUKE BOX LOVE SONG
+
+I could take the Harlem night
+and wrap around you,
+Take the neon lights and make a crown,
+Take the Lenox Avenue busses,
+Taxis, subways,
+And for your love song tone their rumble down.
+Take Harlem's heartbeat,
+Make a drumbeat,
+Put it on a record, let it whirl,
+And while we listen to it play,
+Dance with you till day
+Dance with you, my sweet brown Harlem girl.
+
+JAZZONIA
+
+Oh, silver tree!
+Oh, shining rivers of the soul!
+
+In a Harlem cabaret
+Six long-headed jazzers play.
+A dancing girl whose eyes are bold
+Lifts high a dress of silken gold.
+
+Oh, singing tree!
+Oh, shining rivers of the soul!
+
+Were Eve's eyes
+In the first garden
+Just a bit too bold?
+Was Cleopatra gorgeous
+In a gown of gold?
+
+Oh, shining tree!
+Oh, silver rivers of the soul!
+
+In a whirling cabaret
+Six long-headed jazzers play.
+
+HELEN KELLER
+
+She,
+In the dark,
+Found light
+Brighter than many ever see.
+She,
+Within herself,
+Found loveliness,
+Through the soul's own mastery.
+And now the world receives
+From her dower
+The message of the strength
+Of inner power.
+
+OPPRESSION
+
+Now dreams
+Are not available
+To the dreamers,
+Nor songs
+To the singers.
+
+In some lands
+Dark night
+And cold steel
+Prevail
+But the dream
+Will come back,
+And the song
+Break
+Its jail.
+
+ARDELLA
+
+I would liken you
+To a night without stars
+Were it not for your eyes.
+I would liken you
+To a sleep without dreams
+Were it not for your songs.
+
+
+THE TRUMPET PLAYER
+
+The Negro
+With the trumpet at his lips
+Has dark moons of weariness
+Beneath his eyes
+where the smoldering memory
+of slave ships
+Blazed to the crack of whips
+about thighs
+
+The negro
+with the trumpet at his lips
+has a head of vibrant hair
+tamed down,
+patent-leathered now
+until it gleams
+like jet
+were jet a crown
+
+the music
+from the trumpet at his lips
+is honey
+mixed with liquid fire
+the rhythm
+from the trumpet at his lips
+is ecstasy
+distilled from old desire
+
+Desire
+that is longing for the moon
+where the moonlight's but a spotlight
+in his eyes,
+desire
+that is longing for the sea
+where the sea's a bar-glass
+sucker size
+
+The Negro
+with the trumpet at his lips
+whose jacket
+Has a fine one-button roll,
+does not know
+upon what riff the music slips
+
+It's hypodermic needle
+to his soul
+but softly
+as the tune comes from his throat
+trouble
+mellows to a golden note
+
+NIGHT FUNERAL IN HARLEM
+
+In Harlem
+
+Where did they get
+Them two fine cars?
+
+Insurance man, he did not pay
+His insurance lapsed the other day
+Yet they got a satin box
+for his head to lay.
+
+Night funeral
+In Harlem
+
+Who was it sent
+That wreath of flowers?
+
+Them flowers came
+from that poor boy's friends
+They'll want flowers, too,
+When they meet their ends.
+
+Night funeral
+in Harlem
+
+Who preached that
+Black boy to his grave?
+
+Old preacher man
+Preached that boy away
+Charged Five Dollars
+His girl friend had to pay.
+
+Night funeral
+In Harlem
+
+When it was all over
+And the lid shut on his head
+and the organ had done played
+and the last prayers been said
+and six pallbearers
+Carried him out for dead
+And off down Lenox Avenue
+That long black hearse done sped,
+The street light
+At his corner
+Shined just like a tear
+That boy that they was mournin'
+Was so dear, so dear
+To them folks that brought the flowers,
+To that girl who paid the preacher man
+It was all their tears that made
+That poor boy's
+Funeral grand.
+
+Night funeral
+In Harlem.
+
+LOVE SONG FOR LUCINDA
+
+Love
+Is a ripe plum
+Growing on a purple tree.
+Taste it once
+And the spell of its enchantment
+Will never let you be.
+
+Love
+Is a bright star
+Glowing in far Southern skies.
+Look too hard
+And its burning flame
+Will always hurt your eyes.
+
+Love
+Is a high mountain
+Stark in a windy sky.
+If you
+Would never lose your breath
+Do not climb too high.
+
+MADAM AND THE RENT MAN
+
+The rent man knocked.
+He said, Howdy-do?
+I said, What
+Can I do for you?
+He said, You know
+Your rent is due.
+
+I said, Listen,
+Before I'd pay
+I'd go to Hades
+And rot away!
+
+The sink is broke,
+The water don't run,
+And you ain't done a thing
+You promised to've done.
+
+Back window's cracked,
+Kitchen floor squeaks,
+There's rats in the cellar,
+And the attic leaks.
+
+He said, Madam,
+It's not up to me.
+I'm just the agent,
+Don't you see?
+
+I said, Naturally,
+You pass the buck.
+If it's money you want
+You're out of luck.
+
+He said, Madam,
+I ain't pleased!
+I said, Neither am I.
+So we agrees!
+
+THE BALLAD OF THE LANDLORD
+
+Landlord, landlord,
+My roof has sprung a leak.
+Don't you 'member I told you about it
+Way last week?
+
+Landlord, landlord,
+These steps is broken down.
+When you come up yourself
+It's a wonder you don't fall down.
+
+Ten Bucks you say I owe you?
+Ten Bucks you say is due?
+Well, that's Ten Bucks more'n I'll pay you
+Till you fix this house up new.
+
+What? You gonna get eviction orders?
+You gonna cut off my heat?
+You gonna take my furniture and
+Throw it in the street?
+
+Uh-huh! You talking high and mighty.
+Talk on-till you get through.
+You ain't gonna be able to say a word
+If I land my fist on you.
+
+Police! Police!
+Come and get this man!
+He's trying to ruin the government
+And overturn the land!
+
+Copper's whistle!
+Patrol bell!
+Arrest.
+Precinct Station.
+Iron cell.
+Headlines in press:
+Man Threatens landlord
+Tenant Held Bail
+Judge Gives Negro 90 Days In County Jail!
+
+MORNING AFTER
+
+I was so sick last night I
+Didn't hardly know my mind.
+So sick last night I
+Didn't know my mind.
+I drunk some bad licker that
+Almost made me blind.
+
+
+Had a dream last night I
+Thought I was in hell.
+I drempt last night I
+Thought I was in hell.
+Woke up and looked around me
+Babe, your mouth was open like a well.
+
+
+I said, Baby Baby
+Please don't snore so loud.
+Baby Please
+Please don't snore so loud.
+You jest a little bit o'woman but you
+Sound like a great big crowd.
+
+WHEN SUE WEARS RED
+
+
+When Susanna Jones wears red
+her face is like an ancient cameo
+Turned brown by the ages.
+Come with a blast of trumphets, Jesus!
+
+When Susanna Jones wears red
+A queen from some time-dead Egyptian night
+Walks once again.
+Blow trumphets, Jesus!
+
+And the beauty of Susanna Jones in red
+Burns in my heart a love-fire sharp like a pain.
+Sweet silver trumphets, Jesus!
+
+SNAKE
+
+He glides so swiftly
+Back into the grass-
+Gives me the courtesy of road
+To let me pass,
+That I am half ashamed
+To seek a stone
+To kill him.
+
+The Negro Speaks Of Rivers
+
+
+I've known rivers
+I've known rivers ancient as the world and older than the
+flow of human blood in human veins.
+
+My soul has grown deep like the rivers.
+
+I bathed in the Euphrates when dawns were young.
+I built my hut near the Congo and it lulled me to sleep.
+I looked upon the Nile and raised the pyramids above it.
+I heard the singing of the Mississippi when Abe Lincoln
+went down to New Orleans, and I've seen its muddy
+bosom turn all golden in the sunset.
+
+I've known rivers:
+Ancient, dusky rivers.
+
+My soul has grown deep like the rivers.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

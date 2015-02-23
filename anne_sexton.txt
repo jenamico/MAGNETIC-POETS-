@@ -9,7 +9,7 @@ Robert Lowell with such contemporaries as Sylvia Plath and Ted Hughes.
 Sexton's signature style was highly personal and confessional verse that detailed
 her own struggles with mental illness, marriage, sex and
 addiction. Her work conveyed an intimacy considered scandalous
-for the time and subjected her to a great deal of scrutiny and criticism. She
+for the time which subjected her to a great deal of scrutiny and criticism. She
 wrote of struggle and torment in an effort to keep herself alive and in the
 world.
 
@@ -17,15 +17,9 @@ Anne Sexton began writing as an adult on the advice of a therapist and a
 priest -  within 10 years she had already won the Pulitzer and established
 herself as both a cautionary tale of self-destruction and artistic creation.
 
+This data set contains 14 poems and 3127 individual words.
+
 '''
-
-
-
-
-
-
-
-
 
 
 ADMONITIONS FOR A SPECIAL PURPOSE
@@ -417,10 +411,6 @@ to eat up all the weird abundance.
 
 THE BALLAD OF THE LONELY MASTURBATOR
 
-poet Anne Sexton #24 on top 500 poets Poet's PagePoemsCommentsStatsE-BooksBiographyShare on FacebookShare on Twitter
-Poems by Anne Sexton : 105 / 187 « prev. poem next poem »
-The Ballad Of The Lonely Masturbator
-
 
 The end of the affair is always death.
 She's my workshop. Slippery eye,
@@ -474,7 +464,7 @@ as if words were counted like dead bees in the attic,
 unbuckled from their yellow eyes and their dry wings.
 I must always forget how one word is able to pick
 out another, to manner another, until I have got
-something I might have said…
+something I might have said
 but did not.
 Your business is watching my words. But I
 admit nothing. I work with my best, for instance,
