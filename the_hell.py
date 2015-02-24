@@ -65,8 +65,8 @@ def random_lists(signature_list, connecting_list):
     random_connecting_list = []
 
 
-    random_signature_list = sample(signature_list, 75)
-    random_connecting_list = sample(connecting_list, 25)
+    random_signature_list = sample(signature_list, 40)
+    random_connecting_list = sample(connecting_list, 15)
 
     print random_signature_list
     print random_connecting_list
