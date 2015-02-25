@@ -49,13 +49,19 @@ def make_two_lists(word_counts):
 
     for key, value in word_counts.items():
         if key < 10:
-            signature_list.extend(value)
+            # signature_list.extend(value)
+            for i in range(len(word_counts[key])):
+                for j in range(key):
+                    signature_list.append(word_counts[key][i])
         else:
-            connecting_list.extend(value)
+            # connecting_list.extend(value)
+            for i in range(len(word_counts[key])):
+                for j in range(key):
+                    connecting_list.append(word_counts[key][i])
 
 
-    # print "I am the signature list", signature_list
-    # print "I am the connecting list", connecting_list
+    print "I am the signature list", signature_list
+    print "I am the connecting list", connecting_list
 
     return signature_list, connecting_list
 
@@ -65,8 +71,8 @@ def random_lists(signature_list, connecting_list):
     random_connecting_list = []
 
 
-    random_signature_list = sample(signature_list, 40)
-    random_connecting_list = sample(connecting_list, 15)
+    random_signature_list = sample(signature_list, 100)
+    random_connecting_list = sample(connecting_list, 25)
 
     print random_signature_list
     print random_connecting_list

@@ -1,18 +1,4 @@
-'''
 
-Born February 1, 1902 - Langston Hughes was a notable leader of the
-Harlem Rennaisance and wrote throughout this era in a variety of
-formats. One of the earliest innovators of a literary art form known as
-"jazz poetry" Langston incorporated the syncopated rhythms and
-repetitve phrasing of blues and jazz into his work.
-
-Jazz poetry was conceived in the 1920's by African Americans and maintained
-during the 1950's by the Beat Generation. Jazz poetry has adapted into modern
-times as hip-hop/poetry slams.
-
-This data set contains 24 poems and 2457 individual words
-
-'''
 
 
 DREAMS

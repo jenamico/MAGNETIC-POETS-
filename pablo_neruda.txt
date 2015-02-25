@@ -1,22 +1,3 @@
-'''
-
-Pablo Neruda -
-
-Pablo Neruda was the pen name for Neftali Ricardo Reyes Basoalso, born
-July 12, 1904 in Chile. Pablo began writing as a teenager and often in
-green ink, his personal symbol for desire and hope. Although his work
-covered a variety of topics, he is most famous for his collection
-"Twenty Love Poems and a Song of Despair" which established Neruda as a
-"frank, sensuous spokesman for love." He equated women with nature raised to
-the cosmic degree, and contextualized the women in his life into veritable
-forces of the universe. His style was rich and varied.
-
-Fiercely devoted to communism, he occupied a number of diplomatic positions and
-won the Nobel Prize for Literature in 1971.
-
-This data set contains 16 poems and 3211 individual words.
-
-'''
 
 XVII (I DO NOT LOVE YOU)
 

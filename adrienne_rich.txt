@@ -1,7 +1,3 @@
-'''
-This data set contains 13 poems and 2951 individual words.
-
-'''
 
 A VALEDICTION FORBIDDING MOURNING
 
@@ -237,10 +233,9 @@ adverb modifies action
 verb force-feeds noun
 submerges the subject
 noun is choking
-verb      disgraced      goes on doing
+verb disgraced goes on doing
 
 now diagram the sentence
-
 
 I DREAM OF THE DEATH OF ORPHEUS
 
@@ -263,7 +258,6 @@ who sees through the mayhem, the smoky fires
 of these underground streets
 her dead poet learning to walk backward against the wind
 on the wrong side of the mirror
-
 
 
 TWO SONGS

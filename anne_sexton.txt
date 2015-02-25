@@ -1,26 +1,3 @@
-'''
-
-Anne Sexton -
-
-Born November 9, 1928 - death by suicide at age 46.
-Known as the modern model of the confessional poet, Anne Sexton trained under
-Robert Lowell with such contemporaries as Sylvia Plath and Ted Hughes.
-
-Sexton's signature style was highly personal and confessional verse that detailed
-her own struggles with mental illness, marriage, sex and
-addiction. Her work conveyed an intimacy considered scandalous
-for the time which subjected her to a great deal of scrutiny and criticism. She
-wrote of struggle and torment in an effort to keep herself alive and in the
-world.
-
-Anne Sexton began writing as an adult on the advice of a therapist and a
-priest -  within 10 years she had already won the Pulitzer and established
-herself as both a cautionary tale of self-destruction and artistic creation.
-
-This data set contains 14 poems and 3127 individual words.
-
-'''
-
 
 ADMONITIONS FOR A SPECIAL PURPOSE
 
@@ -410,7 +387,6 @@ There is too much food and no one left over
 to eat up all the weird abundance.
 
 THE BALLAD OF THE LONELY MASTURBATOR
-
 
 The end of the affair is always death.
 She's my workshop. Slippery eye,
