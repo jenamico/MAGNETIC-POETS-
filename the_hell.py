@@ -3,11 +3,6 @@
 from sys import argv
 from random import sample
 
-script, filename = argv
-
-f = open(filename)
-text = f.read()
-
 def string_splitter(text):
     word_list =  text.split()
     return word_list
@@ -62,8 +57,8 @@ def make_two_lists(word_counts):
                     connecting_list.append(word_counts[key][i])
 
 
-    print "I am the signature list", signature_list
-    print "I am the connecting list", connecting_list
+    # print "I am the signature list", signature_list
+    # print "I am the connecting list", connecting_list
 
     return signature_list, connecting_list
 
@@ -76,14 +71,14 @@ def random_lists(signature_list, connecting_list):
     random_signature_list = sample(signature_list, 100)
     random_connecting_list = sample(connecting_list, 25)
 
-    print random_signature_list
-    print random_connecting_list
+    # print random_signature_list
+    # print random_connecting_list
 
 
     return random_signature_list, random_connecting_list
 
 
-def main():
+def assemble_words(text):
 
     split_string = string_splitter(text)
     clean_words = clean_up(split_string)
@@ -91,8 +86,16 @@ def main():
     alpha_words = alphabetize(counted_words)
     list1, list2 = make_two_lists(alpha_words)
     random_sig_list, random_connect_list = random_lists(list1, list2)
+    full_list = random_sig_list + random_connect_list
+    print full_list
+    return full_list
 
 
      # (make_two_lists(alphabetize(wordcount(clean_up(string_splitter(text))))))
+if __name__ == '__main__':
+    script, filename = argv
 
-main()
+    f = open(filename)
+    text = f.read()
+
+    assemble_words(text)

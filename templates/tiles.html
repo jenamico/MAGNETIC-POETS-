@@ -4,13 +4,21 @@
 
 <head>
 
-    <title> {{ poet }} </title>
+    <title> {{ poet["name"] }} </title>
 
 </head>
 
 <body>
 
-    <h1> this is {{ poet }}'s individual tile page  </h1>
+    <h1> this is {{ poet["name"] }}'s individual tile page  </h1>
+    <img src={{ poet["image"] }} >
+    <h1> this is {{ poet["name"] }}'s bio  </h1>
+    <h1> this is also where {{ poet["name"] }}'s words would be </h1>
+    <p> {% for word in words_list %}
+            {{ word }}
+        {% endfor %}
+    </p>
+
 
 </body>
 
