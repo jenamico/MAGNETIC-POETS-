@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+
+<html>
+
+<head>
+
+    <title>{% block title %}{% endblock %}</title>
+
+
+
+    <script src="//code.jquery.com/jquery-1.11.2.min.js"></script>
+    <script src="//code.jquery.com/jquery-migrate-1.2.1.min.js"></script>
+    <script src="//code.jquery.com/ui/1.11.3/jquery-ui.js"></script>
+
+    <link rel="stylesheet" href="//code.jquery.com/ui/1.11.3/themes/smoothness/jquery-ui.css">
+
+
+    {% block styles %}
+    <link rel="stylesheet" type="text/css" href="static/index.css">
+    {% endblock %}
+
+    {% block script %} {% endblock %}
+
+
+</head>
+
+<body>
+
+{% block content %}
+{% endblock %}
+
+
+</body>
+
+
+  <script>
+
+  </script>
+
+</html>

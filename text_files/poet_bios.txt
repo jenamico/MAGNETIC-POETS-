@@ -3,24 +3,25 @@ ANNE SEXTON
 era 1950 - 1970's
 
 The modern model of the confessional poet,
-Anne Sexton's signature style was highly personal verse that detailed
-her struggles with mental illness, suicide, adultery, sex and
-addiction. Her work conveyed an intimacy largely considered scandalous
-for the time and untouched by poetic discourse.
-
 Anne Sexton began writing as an adult on the advice of a therapist and a
 priest -  within 10 years she had already won the Pulitzer Prize and established
 herself as both a cautionary tale of self-destruction and artistic genius.
 
+Anne Sexton's signature style was highly personal verse that detailed
+her struggles with mental illness, suicide, adultery, sex and
+addiction. Her work conveyed an intimacy considered scandalous
+for the time and largely untouched by poetic discourse.
+
 This data set contains 14 poems and 3127 individual words.
+
 
 LANGSTON HUGHES
 
 era 1920 - 1960's
 
 A notable leader of the Harlem Renaissance, Langston Hughes is known for his
-insights and portrayal of black life in America from the 1920's through 1960's.
-Hughes distinguished himself with his literary reflections on black culture,
+insights and portrayal of black life in America. Hughes distinguished himself
+with his literary reflections on black culture,
 and sought to write about life in a way that reflected the entirety of black
 experience including both societal suffering and a love of language and music.
 
@@ -32,29 +33,31 @@ times as hip-hop.
 
 This data set contains 24 poems and 2457 individual words.
 
+
 PABLO NERUDA
 
 era 1930's - 1960's
 
 Pablo Neruda was the pen name for Neftali Ricardo Reyes Basoalso, born
 July 12, 1904 in Chile. Pablo began writing as a teenager and often in
-green ink, his personal symbol for desire and hope. Although his work
-covered a variety of topics, he is most famous for his collection
-"Twenty Love Poems and a Song of Despair" which established Neruda as a
-"frank, sensuous spokesman for love." He equated women with nature raised to
-the cosmic degree, and contextualized the women in his life into veritable
-forces of the universe. His style was rich and varied.
+green ink, his personal symbol for desire and hope. Although his work covered
+a variety of topics, he is most famous for his poetic musings on love.
 
-Fiercely devoted to communism, he occupied a number of diplomatic positions and
-won the Nobel Prize for Literature in 1971.
+Pablo Neruda's signature style was rich and varied but often thematically oriented towards love and nature. He equated the women he loved with forces of nature and often represented them
+poetically as powerful forces raised to the cosmic degree.
 
 This data set contains 16 poems and 3211 individual words.
 
+
 ADRIENNE RICH
 
-
-
 era 1950's - 1970's
+
+Widely regarded as one of the most influental poets of modern times, Adrienne Rich's work brought the patriarchal oppression
+of women into the forefront of poetic discourse.
+
+Adrienne Rich's signature style was marked by explorations of lesbian sexuality and desire, as well as constructions of gender and identity.  An intellectual powerhouse, Rich was one of the first poets to address and incorporate the theme of lesbian existence and sexual equality. Rich's work was a demonstration of the ways in which poetry can serve to dissolve societal isolation and validate the beauty of the social and sexual outlaw.
+
 
 
 
