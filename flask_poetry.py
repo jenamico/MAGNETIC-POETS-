@@ -14,7 +14,7 @@ POETS = { 1:
 
         2:
             {"name": "Audre Lorde",
-            "bio":"This is Audre Lorde's Bio",
+            "bio":"era 1950's - 1980's  A Caribbean-American born radical, Audre Lorde's work combined elements of social liberalism and poetics to express and explore her identity as a black, feminist, lesbian woman. Lorde's literary themes often involved racism, patriarchy and the invisibility of minority identity. Lorde's signature style echoes her depth of feeling and intellectual rigor, revolution and an emphasis on authenticity of experience. Her primary goal in writing was communication - a duty to share not only the triumphs of life, but also the intense often unmitigated pain of living.",
             "image":"https://bluemilk.files.wordpress.com/2013/07/audre-lorde-the-berlin-years.jpg",
             "source":"text_files/audre_lorde.txt"},
 
