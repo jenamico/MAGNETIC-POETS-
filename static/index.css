@@ -1,3 +1,16 @@
+
+
+
+.jumbotron{
+  background-image: url('img/typewriter.jpg');
+  color: white;
+  font-size: 40;
+}
+
+
+
+
+
 body {
 
     background-color: black;
@@ -18,4 +31,3 @@ h2 {
     color: white;
     font-size: 30px;
 
-}

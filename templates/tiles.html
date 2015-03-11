@@ -3,13 +3,12 @@
 {% block title %}{{ poet["name"] }}{% endblock %}
 
 {% block styles %}
+
 <style>
 
 .draggable {
-/*    width: 60px;
-    height: 60px;*/
-    border-right: 2px solid black;
-    border-top: 2px solid black;
+    border-right: 2.5px solid black;
+    border-top: 2.5px solid black;
     border-left: 1px solid black;
     border-bottom: 1px solid black;
     display: inline-block;
@@ -19,25 +18,12 @@
     color: black;
     cursor: move;
     background-color: white;
+    font-size: 150%;
 }
 
 #tiles {
     width: 600px;
 }
-
-/*#canvas {
-    width: 500px;
-    height: 800px;
-    background-color: black;
-    border: 2px solid;
-    margin: 20px;
-    float: left;
-
-
-}
-*/
-
-
 
 
 </style>
@@ -47,22 +33,20 @@
 
     <h1> this is {{ poet["name"] }}'s individual page  </h1>
     <img src={{ poet["image"] }} >
+
     <h3> {{ poet["bio"] }}  </h3>
+
     <h1> {{ poet["name"] }}'s magnetic tiles </h1>
-    <div id="tiles">
-    <div> {% for word in words_list %}
-            <div class="draggable">{{ word }}</div>
-        {% endfor %}
+
+    <div class="row">
+        <div id="tiles" class="col-md-6 col-sm-6">
+            {% for word in words_list %}
+                <div class="draggable">{{ word }}</div>
+            {% endfor %}
+        </div>
+
     </div>
-     <!-- <div id="canvas"> -->
-</div>
 
-    <!-- <div id="poem">
-        {% for word in words_list %}
-            <div class="word"{{ word }}</div>
-        {% endfor %}
-
-     -->
 
 {% endblock %}
 

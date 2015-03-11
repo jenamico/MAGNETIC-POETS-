@@ -4,18 +4,84 @@
 
 {% block content %}
 
-    <h1> MAGNETIC POETS...</h1>
-    <h2> a word tile game </h2>
 
-    <a href="/poet?poet_id=1"><img src="http://www.ikewrites.com/wp-content/uploads/2012/11/anne_sexton_2.jpg"></a>
+<!-- this is div for the the main container class  -->
+<div class="container">
 
-    <a href="/poet?poet_id=2"><img src="https://bluemilk.files.wordpress.com/2013/07/audre-lorde-the-berlin-years.jpg"></a>
+<!-- this is the div for the jumbotron class in the container class -->
+    <div class='col-md-12'>
+        <div class="jumbotron">
+            <h1>Magnetic Poets</h1>
+            <h2>a word tile game designed for you...</h2>
+        </div>
+    </div>
 
-    <a href="/poet?poet_id=3"><img src="http://graphics8.nytimes.com/images/2012/03/29/obituaries/subRICH/subRICH-articleLarge.jpg"></a>
 
-    <a href="/poet?poet_id=4"><img src="http://www.nearshoreamericas.com/wp-content/uploads/2013/06/neruda-poetry-king.png"></a>
+<!-- this is the div for the row class that holds the poet columns -->
+    <div class="row">
+        <div class="col-md-2 col-md-offset-1">
+          <h3>Anne Sexton</h3>
+            <a href="/poet?poet_id=1" class="thumbnail">
+                <img src="static/img/anne-sexton.jpg" alt="Anne Sexton">
+            </a>
 
-    <a href="/poet?poet_id=5"><img src="https://zocalopoets.files.wordpress.com/2011/09/zp_langston-hughes-in-1941_portrait-photograph-by-gordon-parks.jpg"></a> -->
+          <p>Era - 1960's-1970's </p>
+          <p>The Confessional Poet</p>
+        </div>
+
+        <div class="col-md-2">
+          <h3>Audre Lorde </h3>
+            <a href="/poet?poet_id=2" class="thumbnail">
+                <img src="static/img/anne-sexton.jpg" alt="Audre Lorde">
+            </a>
+          <p>Era - 1950's-1980's </p>
+          <p>The Intersection of Identity</p>
+         <!--  <img src="static/img/audre_lorde.jpg"</img> -->
+        </div>
+
+        <div class="col-md-2">
+          <h3>Adrienne Rich</h3>
+          <p>Era - 1950's-1970's </p>
+          <p>The Politics of Sexuality</p>
+        </div>
+
+          <div class="col-md-2">
+          <h3>Pablo Neruda</h3>
+          <p>Era - 1930's-1960's </p>
+          <p>The Ambassador of Love</p>
+        </div>
+
+        <div class="col-md-2">
+          <h3>Langston Hughes</h3>
+          <p>Era - 1920's-1950's </p>
+          <p>The Harlem Rennaisance</p>
+        </div>
+    </div>
+
+    <!-- this is the div for the image class which holds the poet images -->
+
+    <div class="image">
+
+        <!-- <img  class="img-responsive" alt="Responsive image"> -->
+
+           <a href="/poet?poet_id=1"><img src="http://www.ikewrites.com/wp-content/uploads/2012/11/anne_sexton_2.jpg"></a>
+
+            <a href="/poet?poet_id=2"><img src="https://bluemilk.files.wordpress.com/2013/07/audre-lorde-the-berlin-years.jpg"></a>
+
+            <a href="/poet?poet_id=3"><img src="http://graphics8.nytimes.com/images/2012/03/29/obituaries/subRICH/subRICH-articleLarge.jpg"></a>
+
+            <a href="/poet?poet_id=4"><img src="http://www.nearshoreamericas.com/wp-content/uploads/2013/06/neruda-poetry-king.png"></a>
+
+            <a href="/poet?poet_id=5"><img src="https://zocalopoets.files.wordpress.com/2011/09/zp_langston-hughes-in-1941_portrait-photograph-by-gordon-parks.jpg"></a>
+
+    </div>
+
+
+<!-- this closes the container class -->
+</div>
+
+
+
 
 
 
