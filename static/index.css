@@ -4,15 +4,34 @@
 .jumbotron{
   background-image: url('img/typewriter.jpg');
   color: white;
-  font-size: 40;
+  font-family:"Times New Roman", Times, serif;
+}
+
+.jumbotron h1 {
+    font-size: 72px;
+}
+
+.jumbotron h2{
+    font-size: 40px;
+}
+
+.thumbnail{
+    overflow: auto;
 }
 
 
+.top-buffer {
+    margin-top:20px;
 
+}
+
+
+img:hover {
+    opacity: 0.75;
+}
 
 
 body {
-
     background-color: black;
     color: white;
     text-align: center;
@@ -20,14 +39,39 @@ body {
 }
 
 h1 {
-
     color: white;
     font-size: 50px;
 
 }
 
 h2 {
-
     color: white;
     font-size: 30px;
+}
 
+
+h3 {
+    font-size: 14.5pt;
+}
+
+
+.draggable {
+    border-right: 2.5px solid black;
+    border-top: 2.5px solid black;
+    border-left: 1px solid black;
+    border-bottom: 1px solid black;
+    display: inline-block;
+    padding: 4px;
+    margin: 1px;
+    font-family: times;
+    color: black;
+    cursor: move;
+    background-color: white;
+    font-size: 150%;
+}
+
+.footer {
+    padding-bottom: 8em;
+
+
+}
