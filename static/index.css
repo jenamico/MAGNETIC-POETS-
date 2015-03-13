@@ -1,5 +1,5 @@
 
-
+/************this styles the jumbotron on the landing page *******************/
 
 .jumbotron{
   background-image: url('img/typewriter.jpg');
@@ -15,6 +15,40 @@
     font-size: 40px;
 }
 
+.image{
+
+    padding-top: 40px;
+    padding-bottom: 40px;
+    padding-right: 60px;
+
+
+
+}
+
+.col-md-8 {
+    font-family: serif;
+}
+
+
+/*this is the styling for the poet pic and bio on the individual page*/
+.bio h2{
+    font-size: 40px;
+    font-family: helvetica;
+    padding-top: 60px;
+}
+
+.bio p {
+    font-size: 15px;
+    font-family: helvetica;
+    padding-left: 2px;
+    padding-bottom: 2px;
+    padding-top: 30px;
+    padding-right: 40px;
+
+
+}
+
+/*this is the thumbnail pic on the landing page */
 .thumbnail{
     overflow: auto;
 }
@@ -25,7 +59,7 @@
 
 }
 
-
+/*this is the styling for the thumbnails on the landing page*/
 img:hover {
     opacity: 0.75;
 }
@@ -54,7 +88,6 @@ h3 {
     font-size: 14.5pt;
 }
 
-
 .draggable {
     border-right: 2.5px solid black;
     border-top: 2.5px solid black;
@@ -73,5 +106,27 @@ h3 {
 .footer {
     padding-bottom: 8em;
 
+/****************this is the styling for the individual pages ***************/
 
 }
+
+.navbar-brand {
+    font-family: "Times New Roman", Times, serif;
+    font-size: 36px;
+    color: white;
+}
+
+.tiles {
+    padding-left: 120px;
+    background-color: white;
+
+}
+
+
+
+
+
+
+
+
+

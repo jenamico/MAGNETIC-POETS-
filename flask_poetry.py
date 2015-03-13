@@ -8,7 +8,7 @@ app = Flask(__name__)
 
 POETS = { 1:
             {"name":"Anne Sexton",
-            "bio":"era 1950 - 1970's  The modern model of the confessional poet, Anne Sexton began writing as an adult on the advice of a therapist and a priest -  within 10 years she had already won the Pulitzer Prize and established herself as both a cautionary tale of self-destruction and artistic genius.  Anne Sexton's signature style was highly personal verse that detailed her struggles with mental illness, suicide, adultery, sex and addiction. Her work conveyed an intimacy considered scandalous for the time and largely untouched by poetic discourse.",
+            "bio":"Anne Sexton began writing as an adult on the advice of a therapist and a priest -  within 10 years she had won the Pulitzer Prize and established herself as both a cautionary tale of self-destruction and artistic genius.  Her signature style was highly personal verse that detailed her struggles with mental illness, suicide, adultery, sex and addiction. Her work conveyed an intimacy considered scandalous for the time and largely untouched by poetic discourse.",
             "image":"http://www.ikewrites.com/wp-content/uploads/2012/11/anne_sexton_2.jpg",
             "source":"text_files/anne_sexton.txt"},
 
@@ -57,7 +57,7 @@ def show_poet():
 
     print words_list
 
-    return render_template("tiles.html", poet=poet, bio=bio,words_list = words_list)
+    return render_template("individual.html", poet=poet, bio=bio,words_list = words_list)
 
 
 

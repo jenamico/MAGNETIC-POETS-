@@ -1,0 +1,101 @@
+
+
+{% extends "base.html" %}
+{% block title %}{{ poet["name"] }}{% endblock %}
+
+
+{% block styles %}
+
+<style>
+
+.draggable {
+    border-right: 2.5px solid black;
+    border-top: 2.5px solid black;
+    border-left: 1px solid black;
+    border-bottom: 1px solid black;
+    display: inline-block;
+    padding: 4px;
+    margin: 1px;
+    font-family: times;
+    color: black;
+    cursor: move;
+    background-color: white;
+    font-size: 150%;
+}
+
+#tiles {
+    width: 600px;
+}
+
+</style>
+
+{% endblock %}
+
+
+{% block content %}
+<!-- this div begins the container class  -->
+<div class="container-fluid">
+
+<!-- this div begins the header/nav bar -->
+<div class="row">
+    <nav class="navbar navbar-inverse">
+
+            <div class="navbar-header">
+                <a class="navbar-brand" href="#">MAGNETIC POETS - a word tile game</a>
+            </div>
+            <div>
+                <ul class="nav navbar-nav navbar-right">
+                    <li><a href=><span class="glyphicon glyphicon-home"></span> Home </a></li>
+                </ul>
+            </div>
+
+    </nav>
+</div>
+<!-- this div closes the header/nav bar -->
+
+
+
+<!-- this div begins the image/bio section  -->
+<div class="row">
+
+    <div class="col-md-6 image">
+        <img src={{ poet["image"] }} >
+    </div>
+
+    <div class="col-md-6 bio">
+        <h2>{{poet["name"]}}</h2>
+        <p>{{ poet["bio"]}}</p>
+    </div>
+
+</div>
+<!-- this div closes the image-bio section -->
+
+<!-- this div opens the tile and canvas section -->
+ <div class="row">
+        <div id="tiles" class="col-md-6 col-sm-6">
+            {% for word in words_list %}
+                <div class="draggable">{{ word }}</div>
+            {% endfor %}
+        </div>
+</div>
+
+
+
+
+
+
+
+</div>
+<!-- this div closes the container class -->
+
+{% endblock %}
+
+
+
+{% block script %}
+<script>
+    $(function() {
+    $( ".draggable" ).draggable();
+  });
+</script>
+{% endblock %}
