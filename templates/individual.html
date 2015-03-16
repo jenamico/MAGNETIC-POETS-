@@ -46,6 +46,10 @@
             <div>
                 <ul class="nav navbar-nav navbar-right">
                     <li><a href=><span class="glyphicon glyphicon-home"></span> Home </a></li>
+                    <li><a href=><span class="glyphicon glyphicon-envelope"></span> Email </a></li>
+                    <li><a href=><span class="glyphicon glyphicon-print"></span> Print </a></li>
+                    <li><a href=><span class="glyphicon glyphicon-camera"></span> Screenshot</a></li>
+
                 </ul>
             </div>
 
@@ -63,8 +67,8 @@
     </div>
 
     <div class="col-md-6 bio">
-        <h2>{{poet["name"]}}</h2>
-        <p>{{ poet["bio"]}}</p>
+        <h2> {{ poet["name"] }} </h2>
+        <p> {{ poet["bio"] }} </p>
     </div>
 
 </div>
@@ -76,6 +80,9 @@
             {% for word in words_list %}
                 <div class="draggable">{{ word }}</div>
             {% endfor %}
+        </div>
+
+         <div id="canvas" class="col-md-6 col-sm-6 canvas">
         </div>
 </div>
 
@@ -89,8 +96,6 @@
 <!-- this div closes the container class -->
 
 {% endblock %}
-
-
 
 {% block script %}
 <script>
