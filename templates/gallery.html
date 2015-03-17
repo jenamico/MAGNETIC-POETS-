@@ -1,0 +1,63 @@
+{% extends "base.html" %}
+
+{% block title %}gallery{% endblock %}
+
+{% block content %}
+
+
+
+<!-- this is the div for the jumbotron class in the container class -->
+    <div class='col-md-12'>
+        <div class="jumbotron gallery">
+            <h2 class="draggable">User</h2>
+            <h2 class="draggable">Poems</h2>
+            <h2 class="draggable">By</h2>
+            <h2 class="draggable">The</h2>
+            <h2 class="draggable">2015</h2>
+            <h2 class="draggable">Hackbright</h2>
+            <h2 class="draggable">Winter</h2>
+            <h2 class="draggable">Cohort</h2>
+
+        </div>
+    </div>
+
+
+  <div class='screenshots'>
+        <img src="static/img/screenshot1.jpg">
+
+        <img src="static/img/screenshot2.jpg">
+
+        <img src="static/img/screenshot3.jpg">
+
+        <img src="static/img/screenshot4.jpg">
+
+        <img src="static/img/screenshot5.jpg">
+  </div>
+
+
+
+
+
+
+
+
+
+
+<div class="col-md-12 footer signature">
+    <h4> designed by Jen Amico for Hackbright Academy</h4>
+</div>
+
+<!-- this closes the container class -->
+
+
+{%endblock%}
+
+
+
+
+
+<script>
+    $(function() {
+    $( ".draggable" ).draggable();
+  });
+</script>

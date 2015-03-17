@@ -15,6 +15,7 @@
     font-size: 40px;
 }
 
+
 .image{
 
     padding-top: 20px;
@@ -32,9 +33,10 @@
 
 /*this is the styling for the poet pic and bio on the individual page*/
 .bio h2{
-    font-size: 40px;
+    font-size: 50px;
     font-family: "Times New Roman";
-    padding-top: 20px;
+    padding-top: 40px;
+    padding-right: 40px;
 }
 
 .bio p {
@@ -43,7 +45,7 @@
     padding-left: 2px;
     padding-bottom: 2px;
     padding-top: 30px;
-    padding-right: 40px;
+    padding-right: 60px;
     line-height: 1.8em;
 
 
@@ -90,8 +92,8 @@ h3.home {
 }
 
 .draggable {
-    border-right: 2.5px solid black;
-    border-top: 2.5px solid black;
+    border-right: 4.5px solid black;
+    border-top: 4.5px solid black;
     border-left: 1px solid black;
     border-bottom: 1px solid black;
     display: inline-block;
@@ -124,28 +126,31 @@ h3.home {
 }
 
 .tiles {
-    padding-left: 120px;
-    background-color: white;
+    padding-left: 80px;
+    background-color: black;
 
 }
 
 .canvas {
 
-    width: 800px;
-    height: 600px;
+    /*width: 800px;*/
+    height: 650px;
     border-color: white;
-    border-top: 4px solid white;
-    border-left: 4px solid white;
-    border-bottom: 4px solid white;
-    border-right: 4px solid white;
+    border-top: 4px #2c3539;
+    border-left: 4px #2c3539;
+    border-bottom: 4px #2c3539;
+    border-right: 4px #2c3539;
     background-image:url('img/chalkboard.jpg');
+    padding-right: 60px;
+    padding-top: 60px;
+    z-index: -1;
 }
 
 
 .signature {
     font-family: "Times New Roman", Times, Serif;
-    font-size: 32px;
-    color: white;
+    font-size: 28px;
+    color: #56fff0;
     padding-top: 80px;
 }
 
@@ -159,6 +164,23 @@ h3.home {
 
 }
 
+.gallery{
+    background-image:url('img/typewriter.jpg');
+    text-align: center;
+    padding-left: 200px;
+    margin: 0 auto;
+    color: white;
+    font-size: 100px;
+    border-style: solid;
+    border-width: 5px;
+}
+
+.screenshots{
+    margin-left: 40px;
+    margin-right: 40px;
+    margin-top: 40px;
+    margin-bottom: 40px;
+}
 
 
 
