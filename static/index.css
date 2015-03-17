@@ -33,7 +33,7 @@
 
 /*this is the styling for the poet pic and bio on the individual page*/
 .bio h2{
-    font-size: 50px;
+    font-size: 60px;
     font-family: "Times New Roman";
     padding-top: 40px;
     padding-right: 40px;
@@ -47,13 +47,21 @@
     padding-top: 30px;
     padding-right: 60px;
     line-height: 1.8em;
+}
 
+.bio q{
+    font-family: helvetica;
+    font-size: 20px;
+    padding-top: 60px;
+    padding-right: 30px;
+    font-style: italic;
 
 }
 
 /*this is the thumbnail pic on the landing page */
 .thumbnail{
     overflow: auto;
+
 }
 
 
@@ -63,9 +71,9 @@
 }
 
 /*this is the styling for the thumbnails on the landing page*/
-img:hover {
+/*thumbnail:hover {
     opacity: 0.75;
-}
+}*/
 
 
 body {
@@ -90,6 +98,7 @@ h2 {
 h3.home {
     font-size: 14.5pt;
 }
+
 
 .draggable {
     border-right: 4.5px solid black;
@@ -141,9 +150,12 @@ h3.home {
     border-bottom: 4px #2c3539;
     border-right: 4px #2c3539;
     background-image:url('img/chalkboard.jpg');
-    padding-right: 60px;
+   /* padding-right: 60px;*/
+    padding-left: 600px;
     padding-top: 60px;
     z-index: -1;
+    margin-left: 50px;
+
 }
 
 
@@ -175,11 +187,13 @@ h3.home {
     border-width: 5px;
 }
 
-.screenshots{
+.screenshots img{
     margin-left: 40px;
     margin-right: 40px;
     margin-top: 40px;
     margin-bottom: 40px;
+    width: 500px;
+    height: auto;
 }
 
 
