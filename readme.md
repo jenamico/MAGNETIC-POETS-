@@ -1,12 +1,12 @@
-# ** MAGNETIC POETS **
+# MAGNETIC POETS
 
 ## The Developer
 
-Jen Amico is a former trial-attorney from Philadelphia who moved to West Coast, fell in love with the creativity of technology and just graduated from a full-stack fellowship at Hackbright Academy. After just five short weeks of programming she began her Magnetic Poets project to help support her Pythonic and full-stack programming development.
+Jen Amico is a former trial-attorney from Philadelphia who moved to the West Coast, fell in love with the creativity of technology and just graduated from a full-stack fellowship at Hackbright Academy. After five weeks of programming she began her Magnetic Poets project to help support her Pythonic and full-stack programming development.
 
 See more about her here!
 
-![linked in profile](https://www.linkedin.com/in/jenamico)
+![linked in profile](https://www.linkedin.com/profile/edit?trk=hb_tab_pro_top)
 
 ## The Project
 
@@ -34,7 +34,7 @@ Using Python based word analysis a set of 100 graphically designed magnetic tile
 
 ![adrienne rich](https://github.com/jenamico/MAGNETIC-POETS-/blob/master/static/img/adriennerich.png)
 
-![anne sexton](https://github.com/jenamico/MAGNETIC-POETS-/blob/master/static/img/adriennerich.png)
+![anne sexton](https://github.com/jenamico/MAGNETIC-POETS-/blob/master/static/img/annesexton.png)
 
 
 Each tile set consists of refreshable selections from two sets of data; one consisting of "signature" words, those most thematically connected to the writer and one consisting of "connecting" words or those words that connect other parts of speech to make prose. Each tile is maneuverable to the graphically rendered chalk-board using jQuery UI widgets.
@@ -42,12 +42,9 @@ Each tile set consists of refreshable selections from two sets of data; one cons
 ![tilesandboard](https://github.com/jenamico/MAGNETIC-POETS-/blob/master/static/img/tilesandchalkboard.png)
 
 
-
 Magnetic Poets uses Flask as it's web structure, python to generate the wordtiles, python and jinja for each web-page and is lovingly designed on the front-end using HTML5, CSS and Bootstrap.
 
 
-
-### Product Screenshots
 
 
 
