@@ -1,24 +1,22 @@
 # MAGNETIC POETS
 
-## The Developer
-
-Jen Amico is a former trial-attorney from Philadelphia who moved to the West Coast, fell in love with the creativity of technology and just graduated from a full-stack fellowship at Hackbright Academy. After five weeks of programming she began her Magnetic Poets project to help support her Pythonic and full-stack programming development.
-
-See more about her here!
-
-![linked in profile](https://www.linkedin.com/profile/edit?trk=hb_tab_pro_top)
-
-## The Project
-
-Magnetic Poets is a click-and-drag word tile game designed to encourage creative writing and gently nudge would-be poets over their writer's block. It is designed in a sleek interface that emphasizes modernity and the cultivation of cool.
-
 ![homepage](https://github.com/jenamico/MAGNETIC-POETS-/blob/master/static/img/magneticpoets.png)
 
 
-### Technologies Used
+## The Developer
 
+Jen Amico is a former trial-attorney from Philadelphia who moved to the West Coast, fell in love with the creativity of technology and just graduated from a full-stack fellowship at Hackbright Academy. After five weeks of programming she began her Magnetic Poets project to help support her Pythonic and full-stack programming development.She is motivated by the User Experience, and seeks to create original, intuitive experiences that delight product users.
 
-Magnetic Poets was written using Python, Flask, HTML5, CSS3, Javascript, and jQuery.
+See more about her here:
+
+![LinkedIn](www.linkedin.com/profile/view?id=398180896&trk=nav_responsive_tab_profile_pic)
+
+## The Project
+
+Magnetic Poets is a click-and-drag word tile game designed to encourage creative writing and gently nudge would-be poets over their writer's block and fear of writing. It is designed in a sleek interface that emphasizes modernity and the cultivation of cool.
+
+The project seeks to establish a strong visual aesthetic and to interact with users in a sensory-rich environment.
+
 
 ### How It Works
 
@@ -41,8 +39,9 @@ Each tile set consists of refreshable selections from two sets of data; one cons
 
 ![tilesandboard](https://github.com/jenamico/MAGNETIC-POETS-/blob/master/static/img/tilesandchalkboard.png)
 
+### Technologies Used
 
-Magnetic Poets uses Flask as it's web structure, python to generate the wordtiles, python and jinja for each web-page and is lovingly designed on the front-end using HTML5, CSS and Bootstrap.
+Magnetic Poets uses Flask as it's web structure, Python and Javascript to generate and automate the tiles, Python and Jinja for each web-page and is lovingly designed on the front-end using HTML5, CSS3 and Bootstrap.
 
 
 
